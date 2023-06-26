@@ -1,0 +1,21 @@
+body
+{
+    background-color: rgb(1, 175, 255);
+    color: black;
+    font-family: 'Caveat', cursive;
+}
+.heading{
+    width: 100% ;
+    font-size: 25px;
+}
+.book,#result_object_name,#result_percentage{
+    color:rgb(255, 255, 255)
+}
+#camera,#result{
+    border:2px dashed black;
+    width:350px;
+    height: 300px;
+}
+button{
+    width:40%
+}
